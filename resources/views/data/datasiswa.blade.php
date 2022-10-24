@@ -10,8 +10,28 @@
     <div class="card">
         <h5 class="card-header">Table Basic</h5>
         <div class="table-responsive text-nowrap">
-            <table class="table table-hover">
-
+            <table class="table">
+                <thead>
+                    <tr>
+                      <th>NIS</th>
+                      <th>Jenis Kelamin</th>
+                      <th>Alamat</th>
+                      <th>Kelas</th>
+                      <th>Aksi</th>
+                    </tr>
+                  </thead>
+                <tbody class="table-border-bottom-0">
+                    <tr>
+                        <td>a</td>
+                        <td>b</td>
+                        <td>c</td>
+                        <td>d</td>
+                        <td>
+                            <a href="" class="btn btn-danger">Hapus</a>
+                            <a href="" class="btn btn-primary">Edit</a>
+                        </td>
+                    </tr>
+                </tbody>
             </table>
         </div>
     </div>

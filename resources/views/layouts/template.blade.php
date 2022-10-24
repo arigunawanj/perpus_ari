@@ -126,19 +126,19 @@
                         <span class="menu-header-text">Data</span>
                     </li>
                     <li class="menu-item">
-                        <a href="cards-basic.html" class="menu-link">
+                        <a href="/datasiswa" class="menu-link">
                             <i class="menu-icon tf-icons bx bx-male"></i>
                             <div data-i18n="Basic">Data Siswa</div>
                         </a>
                     </li>
                     <li class="menu-item">
-                        <a href="cards-basic.html" class="menu-link">
+                        <a href="/databuku" class="menu-link">
                             <i class="menu-icon tf-icons bx bx-book"></i>
                             <div data-i18n="Basic">Data Buku</div>
                         </a>
                     </li>
                     <li class="menu-item">
-                        <a href="cards-basic.html" class="menu-link">
+                        <a href="/datapetugas" class="menu-link">
                             <i class="menu-icon tf-icons bx bx-body"></i>
                             <div data-i18n="Basic">Data Petugas</div>
                         </a>
@@ -147,13 +147,13 @@
                     <li class="menu-header small text-uppercase"><span class="menu-header-text">Transaksi</span></li>
                     <!-- Cards -->
                     <li class="menu-item">
-                        <a href="cards-basic.html" class="menu-link">
+                        <a href="/peminjaman" class="menu-link">
                             <i class="menu-icon tf-icons bx bx-bookmark-plus"></i>
                             <div data-i18n="Basic">Transaksi Peminjaman</div>
                         </a>
                     </li>
                     <li class="menu-item">
-                        <a href="cards-basic.html" class="menu-link">
+                        <a href="/pengembalian" class="menu-link">
                             <i class="menu-icon tf-icons bx bx-bookmark-minus"></i>
                             <div data-i18n="Basic">Transaksi Pengembalian</div>
                         </a>

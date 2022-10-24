@@ -27,8 +27,8 @@
                         <td>c</td>
                         <td>d</td>
                         <td>
-                            <a href="" class="btn btn-danger">Hapus</a>
-                            <a href="" class="btn btn-primary">Edit</a>
+                            <a href="" class="btn btn-danger"><i class='bx bx-trash'></i></a>
+                            <a href="" class="btn btn-primary"><i class='bx bx-edit-alt' ></i></a>
                         </td>
                     </tr>
                 </tbody>

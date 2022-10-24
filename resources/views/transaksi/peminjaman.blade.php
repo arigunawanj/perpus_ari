@@ -13,14 +13,10 @@
             <table class="table">
                 <thead>
                     <tr>
-                      <th>Penulis</th>
-                      <th>Tahun</th>
-                      <th>Judul Buku</th>
-                      <th>Kota</th>
-                      <th>Penerbit</th>
-                      <th>Cover</th>
-                      <th>Sinopsis</th>
-                      <th>Stok</th>
+                      <th>Siswa</th>
+                      <th>Petugas</th>
+                      <th>Tanggal Peminjaman</th>
+                      <th>Tanggal Pengembalian</th>
                       <th>Aksi</th>
                     </tr>
                   </thead>
@@ -30,10 +26,6 @@
                         <td>b</td>
                         <td>c</td>
                         <td>d</td>
-                        <td>e</td>
-                        <td>f</td>
-                        <td>g</td>
-                        <td>h</td>
                         <td>
                             <a href="" class="btn btn-danger">Hapus</a>
                             <a href="" class="btn btn-primary">Edit</a>
